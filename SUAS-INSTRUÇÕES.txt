@@ -1,2 +1,9 @@
 Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
 quando estivermos avaliando a sua solução
+
+A classe principal é a br.com.pre.dojo.gui.StartScreen, ela tem um metodo main que vai iniciar uma tela onde deve ser selecionado o arquivo.log e depois clicar em gerar relatorio.
+Preferi usar swing porque vocês deixaram em aberto.
+Preferi usar varias vezes hashmap pq é pratico e tb é leve, poderia ter usado uma treeMap mas ele deixaria lento pq eu estava manipulando com frequencia.
+em relação aos testes unitarios, eu sinto por não ter colocado parametros variaveis, meus testes nao funcionarão na máquina de vocês.
+
+Obrigada pela oportunidade.
